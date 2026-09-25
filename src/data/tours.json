@@ -1,0 +1,1644 @@
+[
+  {
+    "id": "addis-ababa",
+    "slug": "addis-ababa",
+    "title": "Addis Ababa – Cultural Discovery Tour",
+    "tagline": "The diplomatic and cultural capital where ancient heritage meets modern African dynamism.",
+    "overview": "Discover the vibrant pulse of Addis Ababa, Africa’s diplomatic capital nestled in the Entoto eucalyptus highlands at 2,350 meters. From the fossil of humankind's ancestor 'Lucy' at the National Museum to the panoramic vistas of Mount Entoto and the aromatic stalls of the world-famous Mercato, this immersive city discovery reveals the historic roots and living culture of Ethiopia.",
+    "region": "Central Ethiopia",
+    "durationDays": 2,
+    "durationNights": 1,
+    "difficulty": "Easy",
+    "groupSize": "1 - 12 travelers",
+    "bestSeason": "Year-round (Best: Oct - May)",
+    "startLocation": "Addis Ababa",
+    "endLocation": "Addis Ababa",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/untitled-design-2-removebg-preview-385212.png",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/artur-adilkhanian-i2jqrnbqudo-unsplash-2d7f01.jpg",
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/yared-logo-1-4e029d.png"
+    ],
+    "category": "City & Short Break",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Supports local Addis cultural heritage guides, traditional handicraft cooperatives, and authentic community dining.",
+    "highlights": [
+      "National Museum of Ethiopia & 3.2-million-year-old hominid Lucy (Dinknesh)",
+      "Holy Trinity Cathedral with imperial tombs of Emperor Haile Selassie",
+      "Panoramic views of the capital from Mount Entoto at 3,200m",
+      "Traditional Ethiopian coffee ceremony with freshly roasted wild beans",
+      "Addis Mercato, Africa's largest vibrant open-air marketplace"
+    ],
+    "included": [
+      "Airport transfers and private air-conditioned vehicle transport",
+      "Professional licensed English-speaking local tour guide",
+      "All entrance fees to museums, cathedrals, and historical viewpoints",
+      "Authentic traditional coffee ceremony experience",
+      "1 night hotel accommodation in 4-star central Addis hotel",
+      "Breakfast and welcome cultural dinner with traditional music and dance",
+      "Purified bottled water throughout the tour"
+    ],
+    "notIncluded": [
+      "International flights and visa fees",
+      "Alcoholic beverages and personal expenses",
+      "Tips and gratuities for guides and drivers"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Welcome to Addis Ababa – Imperial History & Lucy",
+        "location": "Addis Ababa",
+        "description": "Upon arrival at Bole International Airport, meet your Yared Tour representative and transfer to your hotel. Begin your exploration at the National Museum, home to Lucy (Dinknesh) and ancient Aksumite artifacts. Continue to the majestic Holy Trinity Cathedral, resting place of Emperor Haile Selassie, followed by an authentic Ethiopian coffee ceremony in a serene heritage courtyard.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Addis Ababa (Jupiter International or Radisson Blu)",
+        "highlights": [
+          "National Museum & Lucy",
+          "Holy Trinity Cathedral",
+          "Traditional Coffee Ritual"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mount Entoto Panoramic Heights & Addis Mercato",
+        "location": "Mount Entoto & Mercato",
+        "description": "Ascend the lush eucalyptus-covered hills to Mount Entoto (3,200m) to visit Emperor Menelik II's historic palace and St. Mary church with stunning panoramic views over the sprawling capital. In the afternoon, explore the lively rhythms of Mercato, navigating spice lanes, hand-woven cotton textiles, and recycled metalwork with our expert guide.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Departure / Tour ends",
+        "highlights": [
+          "Mount Entoto Vistas",
+          "Menelik II Palace",
+          "Mercato Cultural Exploration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hawassa-sidama",
+    "slug": "hawassa-sidama",
+    "title": "Hawassa, Sidama & Yirgacheffe Coffee Lands",
+    "tagline": "Gentle lakes, rich birdlife, and the birthplace of world-renowned specialty coffee.",
+    "overview": "Journey south through the Great Rift Valley to the shores of Lake Hawassa and the lush emerald hills of Sidama and Yirgacheffe. Experience the morning bustle of Hawassa's iconic fish market, watch marabou storks and colobus monkeys in lakeside fig trees, and walk through shade-grown coffee farms meeting smallholder producers who harvest some of the finest Arabica beans on earth.",
+    "region": "Southern Rift Valley",
+    "durationDays": 3,
+    "durationNights": 2,
+    "difficulty": "Easy",
+    "groupSize": "2 - 10 travelers",
+    "bestSeason": "Year-round (Best: Oct - Apr)",
+    "startLocation": "Addis Ababa",
+    "endLocation": "Addis Ababa / Southern Extension",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/erik-hathaway-erfc0-u0hge-unsplash-0b46f2.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/ethiopia-arbaminch-rubendrenth-0025-2082f3.jpg"
+    ],
+    "category": "Cultural & Community",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Direct partnerships with Sidama smallholder coffee farmers and Lake Hawassa artisanal fishing associations.",
+    "highlights": [
+      "Bustling morning fish market at Lake Hawassa with fresh tilapia",
+      "Boat excursion to observe hippos, white pelicans, and kingfishers",
+      "Walk among wild coffee trees in family-run organic farms of Sidama",
+      "Tasting single-origin freshly washed Yirgacheffe coffees",
+      "Enset (false banana) culinary demonstrations in local Sidama bamboo homesteads"
+    ],
+    "included": [
+      "Private 4WD Land Cruiser transport with experienced driver",
+      "English-speaking professional guide & local coffee community specialists",
+      "Lake Hawassa private boat tour",
+      "Coffee plantation tour & community cupping session",
+      "2 nights accommodation in lakeside resort / eco-lodge",
+      "All meals (Breakfast, Lunch, Dinner) and mineral water",
+      "All regional road taxes and entrance fees"
+    ],
+    "notIncluded": [
+      "Alcoholic drinks and gratuities",
+      "Personal purchases of specialty roasted coffee"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Addis Ababa to Lake Hawassa via the Great Rift Valley",
+        "location": "Addis Ababa to Hawassa",
+        "description": "Depart Addis Ababa driving south through the Great Rift Valley, passing crater lakes Ziway and Langano. Arrive in the scenic city of Hawassa along the lake shore. Take a peaceful afternoon stroll along the promenade where black-and-white colobus monkeys play among giant fig trees.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Hawassa (Haile Resort or Lewi Resort)",
+        "highlights": [
+          "Rift Valley scenery",
+          "Lake Langano stop",
+          "Colobus monkey spotting"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hawassa Fish Market & Sidama Coffee Immersion",
+        "location": "Hawassa & Sidama Highlands",
+        "description": "Rise early to visit the vibrant Lake Hawassa fish market as fishermen dock wooden canoes laden with fresh catch, surrounded by flocks of marabou storks. Continue into the lush green hills of Sidama to visit community coffee plots under forest canopies. Witness the harvest and wet-mill processing, followed by a warm lunch in a traditional bamboo Sidama home.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Hawassa or Yirgalem (Aregash Lodge)",
+        "highlights": [
+          "Lakeside Fish Market",
+          "Sidama Coffee Forest",
+          "Traditional Enset Preparation"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Lake Hawassa Boat Safari & Return to Addis",
+        "location": "Hawassa to Addis Ababa",
+        "description": "Embark on a relaxing boat trip across Lake Hawassa to spot resident hippo pods and abundant waterbirds. After lunch with views across the lake, return comfortably to Addis Ababa with stops at Rift Valley roadside fruit markets.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Addis Ababa / Onward travel",
+        "highlights": [
+          "Hippo Boat Safari",
+          "Birdwatching",
+          "Rift Valley panoramic return"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arba-minch-gamo",
+    "slug": "arba-minch-gamo",
+    "title": "Arba Minch & Gamo Highlands",
+    "tagline": "Two glistening rift valley lakes, giant crocodiles, and the unique beehive bamboo homes of the Dorze people.",
+    "overview": "Set between the shimmering waters of Lake Chamo and Lake Abaya, Arba Minch ('Forty Springs') is southern Ethiopia’s natural crossroads. Venture by boat across Lake Chamo to witness the famed 'crocodile market' where giant Nile crocodiles bask beside hippos, then climb into the mist-shrouded Gamo Highlands to discover the Dorze people, famed for their towering beehive bamboo architecture and extraordinary cotton weaving.",
+    "region": "Southern Ethiopia",
+    "durationDays": 3,
+    "durationNights": 2,
+    "difficulty": "Easy to Moderate",
+    "groupSize": "2 - 10 travelers",
+    "bestSeason": "Year-round (Best: Sep - May)",
+    "startLocation": "Addis Ababa / Hawassa",
+    "endLocation": "Arba Minch / Addis Ababa",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/ethiopia-arbaminch-rubendrenth-0025-2082f3.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/ethiopia-gamohighlands-rubendrenth-0025-fa2221.jpg"
+    ],
+    "category": "Cultural & Community",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Supports the Dorze community weaving collective and sustainable community village lodge initiatives.",
+    "highlights": [
+      "Lake Chamo boat safari to observe Africa's largest Nile crocodiles and hippos",
+      "Traditional bamboo architecture tour in Chencha Dorze village",
+      "Hands-on demonstration of making bread from false banana (Kocho)",
+      "Traditional polyphonic singing and vibrant bamboo loom weaving",
+      "Spectacular cliff-edge sunset over lakes Abaya and Chamo at Nechisar"
+    ],
+    "included": [
+      "Domestic flight Addis Ababa - Arba Minch (or private 4WD ground transport)",
+      "Private boat excursion on Lake Chamo",
+      "All park fees, local community village dues, and scout costs",
+      "Dorze community cultural workshop and musical exchange",
+      "2 nights lodging (Paradise Lodge Arba Minch or Dorze Community Lodge)",
+      "All meals and purified drinking water",
+      "Professional bilingual guide"
+    ],
+    "notIncluded": [
+      "International flights and tips",
+      "Souvenirs from weaving cooperatives"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Arba Minch & Forty Springs Walk",
+        "location": "Arba Minch",
+        "description": "Fly from Addis Ababa to Arba Minch or drive via the scenic Rift Valley. Check into your lodge perched high above the 'Bridge of God' ridge dividing Lake Abaya and Lake Chamo. Take a refreshing nature walk through the lush groundwater forest to see the forty crystal-clear natural springs that give the town its name.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Arba Minch (Paradise Lodge or Haile Resort)",
+        "highlights": [
+          "Lake Ridge Panoramas",
+          "Forty Springs Nature Walk",
+          "Sunset over Rift Lakes"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Lake Chamo Boat Safari & Nechisar Wildlife",
+        "location": "Lake Chamo & Nechisar National Park",
+        "description": "Board a private boat on Lake Chamo to reach the legendary 'Crocodile Market'—a sandbank where colossal Nile crocodiles congregate alongside pods of snorting hippopotamuses and vibrant goliath herons. In the afternoon, explore the plains of Nechisar to spot Burchell's zebras and gazelles.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Arba Minch",
+        "highlights": [
+          "Lake Chamo Crocodile Market",
+          "Hippo Pods",
+          "Nechisar National Park Wildlife"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Chencha Dorze Village & Gamo Highlands Immersion",
+        "location": "Chencha & Gamo Highlands",
+        "description": "Climb up the winding mountain pass to Chencha in the Gamo Highlands (2,600m). Meet the friendly Dorze people whose towering bamboo houses resemble elephant heads and last up to 80 years. Learn how they scrape false banana roots to ferment dough, bake fresh Kocho with local honey, and weave intricate textiles on wooden foot looms before returning to the airport.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Departure / Southern Tour connection",
+        "highlights": [
+          "Elephant-shaped Bamboo Houses",
+          "Kocho Bread Baking",
+          "Dorze Weaving Cooperative"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "omo-valley-discovery",
+    "slug": "omo-valley-discovery",
+    "title": "Omo Valley Discovery Journey",
+    "tagline": "A respectful, ethical journey through Africa's most culturally distinct river valley.",
+    "overview": "The Lower Omo Valley is a UNESCO World Heritage cultural landscape home to ancient pastoralist and agro-pastoralist communities. Traveling with Yared's certified local guides, this journey emphasizes cultural dignity, meaningful dialogue, and fair economic exchange with the Hamer, Mursi, Karo, and Dassanech peoples, moving away from exploitative tourism toward authentic human-to-human connection.",
+    "region": "South Omo",
+    "durationDays": 5,
+    "durationNights": 4,
+    "difficulty": "Moderate",
+    "groupSize": "2 - 8 travelers",
+    "bestSeason": "Sep - Mar & Jun - Aug",
+    "startLocation": "Arba Minch / Jinka",
+    "endLocation": "Jinka / Arba Minch",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/omo-valley-near-konso-2-9805f7.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/picture-slide-17-1929be.png",
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/picture-slide-6-68bbc4.jpg"
+    ],
+    "category": "Cultural & Community",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Direct village elder compensation, fair photography fees pooled for community health/schools, and local native guides.",
+    "highlights": [
+      "Meaningful village visits with the Hamer, Mursi, Karo, and Konso peoples",
+      "Konso UNESCO terraced agriculture and stone-walled village compounds",
+      "Mago National Park excursion to the secluded Mursi settlements",
+      "Karo clifftop village overlooking the dramatic curves of the Omo River",
+      "Authentic weekly tribal market day at Key Afer or Dimeka"
+    ],
+    "included": [
+      "4WD Land Cruiser with experienced expedition driver and all fuel",
+      "Yared cultural tour director plus local tribal guides and community scouts",
+      "All regional community entrance fees and ethical village compensation",
+      "4 nights accommodation in best available eco-lodges / safari tents",
+      "Full board (Breakfast, Lunch, Dinner) and continuous purified water",
+      "Konso Cultural Heritage Site guided excursion"
+    ],
+    "notIncluded": [
+      "Personal camera permit fees for specific portraits where requested",
+      "Gratuities for drivers and local scouts"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arba Minch to Konso UNESCO Landscape & Key Afer",
+        "location": "Konso & Key Afer",
+        "description": "Drive south to the terraced hills of Konso, celebrated for 400-year-old stone terraces and wooden ancestral waga carvings. Continue to Key Afer or Turmi, taking in the vibrant pastoralist atmosphere of southern Ethiopia.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Konso (Kanta Lodge) or Turmi (Buska Lodge)",
+        "highlights": [
+          "Konso Terraces",
+          "Waga Sculptures",
+          "Key Afer Weekly Market"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mago National Park & Respectful Mursi Visit",
+        "location": "Mago National Park & Jinka",
+        "description": "Drive into Mago National Park to visit a remote Mursi village. Famous for their clay lip plates and body art, our visit is conducted with deep cultural awareness and unhurried conversation led by local guides who speak the Mursi language.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Jinka (Eco-Omo Lodge)",
+        "highlights": [
+          "Mago Savannah",
+          "Mursi Cultural Exchange",
+          "South Omo Research Center"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Karo People & Omo River Panorama",
+        "location": "Murulle & Turmi",
+        "description": "Travel across savanna plains to the clifftop settlement of Kolcho, home to the Karo community. Enjoy sweeping views over the winding Omo River and learn about intricate chalk body painting traditions and fishing customs.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Turmi (Buska Lodge or Turmi Lodge)",
+        "highlights": [
+          "Kolcho Clifftop Village",
+          "Karo Body Painting Art",
+          "Omo River Valley Views"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Dassanech at Omorate & Hamer Village Life",
+        "location": "Omorate & Turmi",
+        "description": "Cross the Omo River in traditional dugout canoes to visit the Dassanech semi-nomadic pastoralists. In the late afternoon, return to Turmi to walk through a peaceful Hamer family compound, learning about cattle culture and beekeeping.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Turmi (Buska Lodge)",
+        "highlights": [
+          "Dugout Canoe River Crossing",
+          "Dassanech Villages",
+          "Hamer Evening Coffee & Stories"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Turmi Market & Return via Arba Minch",
+        "location": "Turmi to Jinka / Arba Minch",
+        "description": "Catch the lively morning exchanges at the local market where different communities gather to trade livestock, gourds, and honey. Transfer comfortably to Jinka Airport for your flight back to Addis Ababa.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Addis Ababa / Next Destination",
+        "highlights": [
+          "Tribal Market Trade",
+          "Rift Valley Return Flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "south-omo-soshi-trekking",
+    "slug": "south-omo-soshi-trekking",
+    "title": "South Omo – Soshi Trekking",
+    "tagline": "Walk the trails of tradition – an immersion into the Omo Valley’s living cultures on foot.",
+    "overview": "The Soshi Trekking Route was developed by Yared Tour & Travel in direct partnership with local Ari communities. Bypassing standard road vehicle tourism, this trek travels along age-old walking trails between quiet mountain hamlets, terraced fields, and forested river gorges. Experience true hospitality as village families welcome you into their daily rhythm.",
+    "region": "South Omo Highlands",
+    "durationDays": 4,
+    "durationNights": 3,
+    "difficulty": "Moderate",
+    "groupSize": "2 - 8 travelers",
+    "bestSeason": "Sep - May",
+    "startLocation": "Jinka",
+    "endLocation": "Turmi / Jinka",
+    "heroImage": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/picture-slide-6-68bbc4.jpg",
+    "galleryImages": [
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/picture-slide-7-41e1b9.jpg",
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/picture-slide-17-1929be.png"
+    ],
+    "category": "Trekking & Wildlife",
+    "travelifeCertified": true,
+    "communityImpactFocus": "100% community-managed route: local village hosts, community porters, and trail maintenance fund.",
+    "highlights": [
+      "Trek scenic mountain footpaths between secluded Ari and Banna villages",
+      "Homestay accommodations in community guest compounds",
+      "Traditional pottery, blacksmithing, and honey extraction demonstrations",
+      "Wildcard wildlife spotting: baboons, bushbuck, and endemic songbirds",
+      "Evening campfire gatherings with village elders sharing oral histories"
+    ],
+    "included": [
+      "All trail guiding by licensed Ari local mountain guides and scouts",
+      "Luggage transport with pack mules or porters",
+      "3 nights accommodation (community eco-camps and village homestays)",
+      "All meals freshly prepared using organic local highland produce",
+      "Purified drinking water and snacks on trail",
+      "All community fees, village hosting dues, and camera permits"
+    ],
+    "notIncluded": [
+      "Personal trekking gear (sleeping bag, boots, headlamp)",
+      "Alcoholic drinks and tips for muleteers"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Jinka to Soshi Highland Trailhead",
+        "location": "Jinka to Soshi",
+        "description": "Meet your trekking crew in Jinka and drive to the mountain trailhead. Begin walking along lush green ridges through bamboo groves and coffee groves into the Soshi highlands. Arrive at our first village camp and enjoy a warm communal meal prepared with farm-fresh vegetables.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Soshi Community Camp",
+        "highlights": [
+          "Ridge Walking",
+          "Ari Mountain Hamlets",
+          "Highland Sunset"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Deep Highland Valley Trek & Artisan Encounters",
+        "location": "Soshi to Galila",
+        "description": "Hike through rolling river valleys and terraced farmlands. Stop at family workshops where women mold clay pots by hand and blacksmiths forge farming tools over charcoal bellows. Continue over gentle passes with expansive views.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Galila Village Homestay",
+        "highlights": [
+          "Traditional Pottery Craft",
+          "Blacksmithing Demonstrations",
+          "Scenic Valleys"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Trek through Sacred Forests & River Cascades",
+        "location": "Galila to Weset Foothills",
+        "description": "Follow mountain trails down towards shaded river ravines where natural waterfalls provide refreshing swimming spots. Learn about indigenous medicinal plants and forest honey gathering from our community guides.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Weset Camp",
+        "highlights": [
+          "Forest Waterfalls",
+          "Medicinal Plant Walk",
+          "Storytelling around Campfire"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Descent to Trail End & Farewell to Ari Hosts",
+        "location": "Weset to Jinka",
+        "description": "Complete the final scenic descent of the trekking circuit. Meet our support vehicle for a farewell toast with fresh local coffee and transfer back to Jinka for a hot shower and evening relaxation.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Jinka (Eco-Omo Lodge) / Onward connection",
+        "highlights": [
+          "Highland Panorama Descent",
+          "Farewell Coffee Ceremony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ari-zone-weset-trekking",
+    "slug": "ari-zone-weset-trekking",
+    "title": "Ari Zone – Weset Trekking",
+    "tagline": "Trek through mountains, hidden waterfalls, and lush agricultural forests with the Ari people.",
+    "overview": "The Ari people are the largest ethnic community of South Omo, renowned for their fertile green highlands, painted clay huts, and welcoming spirit. Starting from Jinka, this 4-day community trek winds through mist-clad volcanic hills, cascading mountain streams, and self-sufficient farming villages where life moves to the rhythm of the seasons.",
+    "region": "Ari Highlands",
+    "durationDays": 4,
+    "durationNights": 3,
+    "difficulty": "Moderate",
+    "groupSize": "2 - 8 travelers",
+    "bestSeason": "Sep - Jun",
+    "startLocation": "Jinka",
+    "endLocation": "Jinka",
+    "heroImage": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8156-3e2f08.jpg",
+    "galleryImages": [
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8153-c4d60a.jpg",
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8146-7f4ab4.jpg"
+    ],
+    "category": "Trekking & Wildlife",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Pioneered by Yared Tour to channel tourism revenue directly to Ari village councils and women's cooperatives.",
+    "highlights": [
+      "Hike along quiet forest ridges and sparkling mountain waterfalls",
+      "Authentic stay in traditionally painted Ari compound huts",
+      "Participate in daily farming, cardamom harvest, and honey harvesting",
+      "Traditional pottery craft and injera-baking workshops",
+      "Clean mountain air and unspoiled natural tranquility"
+    ],
+    "included": [
+      "Expert local Ari trekking guide and village coordinators",
+      "All trail meals, drinking water, and field cook services",
+      "3 nights community camp/homestay accommodation",
+      "Luggage transport via pack mules",
+      "Village conservation fees and photography contributions"
+    ],
+    "notIncluded": [
+      "Trekking sleeping bag and personal clothing",
+      "Tips for trail staff"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Hike from Jinka to Upper Ari Villages",
+        "location": "Jinka to Ari Highlands",
+        "description": "Leave Jinka behind and ascend steadily into the fertile Ari hills. Admire neat compounds decorated with intricate mud patterns and bright flower gardens. Arrive at our community base in time for sundown.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Ari Village Camp",
+        "highlights": [
+          "Decorated Compound Murals",
+          "Cardamom & Coffee Gardens"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Weset Waterfall Trail & River Gorge",
+        "location": "Weset Gorge",
+        "description": "Trek through indigenous tree canopies where colobus monkeys reside. Descend to the spectacular Weset waterfall for a picnic lunch beside the cool spray. Continue across gentle rolling farmland.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Weset Community Lodge",
+        "highlights": [
+          "Weset Waterfall",
+          "Indigenous Flora Walk",
+          "River Picnic"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Agricultural Life & Traditional Ari Distillery",
+        "location": "Middle Ari Hills",
+        "description": "Spend the morning with local farmers learning about crop rotations, enset cultivation, and traditional small-batch distillation of areki. Enjoy an afternoon hike over panoramic mountain ridges.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Highland Camp",
+        "highlights": [
+          "Areki Distillation",
+          "Highland Ridge Hike",
+          "Village Cooking"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Scenic Loop Return to Jinka",
+        "location": "Weset to Jinka",
+        "description": "Walk the final stretch of trail overlooking the vast plains of the lower Omo Valley in the distance. Arrive in Jinka for lunch and celebration of a successful trekking expedition.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Jinka (Eco-Omo Lodge)",
+        "highlights": [
+          "Panoramic Valley Views",
+          "Return Celebration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "borena",
+    "slug": "borena",
+    "title": "Borena – Camel Hiking & Cultural Encounters",
+    "tagline": "Walk the rhythm of the savanna – where singing wells, camels, and ancient traditions tell the story of Borena life.",
+    "overview": "Journey to Ethiopia’s southern borderlands to the arid thorn savannas of Borena. Here, one of Africa’s oldest democratic governance systems—the Gadaa system—thrives alongside resilient pastoralist traditions. Trek alongside camel caravans across ancient volcanic craters, and witness the mesmerizing spectacle of the singing wells, where chains of men sing in rhythm as they haul water for thousands of cattle.",
+    "region": "Southern Frontier / Oromia",
+    "durationDays": 4,
+    "durationNights": 3,
+    "difficulty": "Moderate",
+    "groupSize": "2 - 8 travelers",
+    "bestSeason": "Oct - Mar",
+    "startLocation": "Hawassa / Yabello",
+    "endLocation": "Yabello / Addis Ababa",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/borena-3-3a0599.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/picture-slide-19-a24f57.jpg",
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/borena-5-9a33a6.jpg"
+    ],
+    "category": "Cultural & Community",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Direct support for Borena pastoral water conservation projects and local camel handler associations.",
+    "highlights": [
+      "The world-famous 'Singing Wells' (Tula Wells) of the Borena pastoralists",
+      "Trek across the dramatic caldera rim of El Sod (the 'House of Salt')",
+      "Witness salt miners diving into the jet-black subterranean volcanic lake",
+      "Learn about the ancient UNESCO-inscribed Gadaa democratic social system",
+      "Trek through acacia savannas with camel caravans carrying supplies"
+    ],
+    "included": [
+      "Private 4WD expedition vehicle with driver and fuel",
+      "Experienced Borena cultural guide and community scouts",
+      "Camel caravan support for day hikes across savanna trails",
+      "3 nights lodging (Yabello Motel / Yabello Eco-camp)",
+      "All meals and purified mineral water",
+      "All local community permissions, well entrance fees, and salt lake dues"
+    ],
+    "notIncluded": [
+      "Domestic airfares",
+      "Gratuities for camel handlers and well singers"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Journey South into Borena Acacia Savannas",
+        "location": "Hawassa to Yabello",
+        "description": "Drive south through picturesque landscape transitions from lush green hills to sprawling acacia savannas. Spot roadside camel herds and distinctive Borena settlements fenced with acacia thorns. Arrive in Yabello by late afternoon.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Yabello (Yabello Motel or Borena Lodge)",
+        "highlights": [
+          "Savanna Transition",
+          "Pastoralist Settlements",
+          "Yabello Wildlife Sanctuary"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "The Singing Wells of Dublock",
+        "location": "Dublock",
+        "description": "Visit the subterranean Singing Wells at Dublock. Up to ten men stand on wooden ledges down a deep hand-dug shaft, passing buckets hand-over-hand while singing hypnotic rhythmic chants that soothe the cattle waiting patiently in long lines above.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Yabello",
+        "highlights": [
+          "Hypnotic Singing Wells Chants",
+          "Camel & Cattle Herding Rituals",
+          "Gadaa Elders Discussion"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "El Sod Salt Crater Hike with Camel Caravan",
+        "location": "El Sod",
+        "description": "Drive to the giant extinct volcano crater of El Sod. Hike down the steep, dramatic path accompanied by camels to the obsidian-black salt lake at the crater floor. Watch brave local salt harvesters diving into sulfurous mineral water to scoop out precious black salt.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Yabello",
+        "highlights": [
+          "El Sod Crater Rim Hike",
+          "Subterranean Salt Lake Divers",
+          "Camel Trekking"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Borena Cultural Council & Return Journey",
+        "location": "Yabello to Hawassa / Addis Ababa",
+        "description": "Meet with community elders to gain insight into the democratic Gadaa generational leadership system. Begin your comfortable return journey northwards through the Rift Valley.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Hawassa / Addis Ababa",
+        "highlights": [
+          "Gadaa Heritage Insights",
+          "Rift Valley Return Drive"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jimma-and-bonga",
+    "slug": "jimma-and-bonga",
+    "title": "Jimma & Bonga – The Story of Coffee, Tea, Honey & Spices",
+    "tagline": "Follow the wild origins of Arabica coffee deep into the cloud forests of Kaffa.",
+    "overview": "Journey into the lush, mountainous southwest of Ethiopia to the ancient kingdom of Kaffa—the historic birthplace of wild Coffea arabica. Walk through virgin cloud forests where coffee bushes grow wild beneath giant mahogany trees draped in orchids and lianas. Explore King Abba Jifar’s 19th-century palace in Jimma, breathe in terraced tea plantations, and sample pure white forest honey directly from tree hives.",
+    "region": "Southwest Rainforests (Kaffa)",
+    "durationDays": 4,
+    "durationNights": 3,
+    "difficulty": "Easy to Moderate",
+    "groupSize": "2 - 8 travelers",
+    "bestSeason": "Oct - May",
+    "startLocation": "Addis Ababa",
+    "endLocation": "Addis Ababa / Jimma Airport",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/jimma-bonga-1-1b3efc.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/erik-hathaway-erfc0-u0hge-unsplash-0b46f2.jpg"
+    ],
+    "category": "Cultural & Community",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Supports the Kaffa UNESCO Biosphere Reserve conservation team and wild forest honey cooperatives.",
+    "highlights": [
+      "Hike into the wild ancestral coffee forests of the Kaffa Biosphere Reserve",
+      "Traditional forest coffee brewing ritual with roasted coriander and rue",
+      "Visit Emperor Abba Jifar's wooden royal palace in Jimma",
+      "Taste organic white forest honey and wild spices (korarima, timiz)",
+      "Bonga natural hot springs and forest waterfalls"
+    ],
+    "included": [
+      "Private 4WD Land Cruiser transport with driver and fuel",
+      "Specialist botanical and cultural forest guides",
+      "3 nights accommodation in Jimma & Bonga eco-lodges",
+      "All meals and bottled water",
+      "Forest biosphere permits and palace entrance tickets",
+      "Coffee cupping and spice cooperative workshop"
+    ],
+    "notIncluded": [
+      "Domestic flight Jimma - Addis (if chosen over driving)",
+      "Personal spice and honey purchases"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Addis Ababa to Jimma via Gibe River Valley",
+        "location": "Addis Ababa to Jimma",
+        "description": "Drive west across fertile Oromo plateau farmlands and descend into the scenic Gibe River gorge. Arrive in Jimma, the historical capital of the Kingdom of Jimma. Tour the 1880s palace of King Abba Jifar, crafted from indigenous hardwoods with intricate Arabesque woodwork.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Jimma (Central Jimma Hotel)",
+        "highlights": [
+          "Gibe River Gorge",
+          "King Abba Jifar Palace",
+          "Jimma Heritage Museum"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Jimma to Bonga & Kaffa UNESCO Biosphere",
+        "location": "Jimma to Bonga",
+        "description": "Drive deeper into the moist evergreen rainforest to Bonga, center of the Kaffa UNESCO Biosphere Reserve. Walk through the Mankira forest where the legend of Kaldi and his dancing goats first discovered coffee. Witness wild coffee trees growing naturally in the dense understory.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Bonga (Kaffa Green Hotel or Eco-Lodge)",
+        "highlights": [
+          "Mankira Wild Coffee Origin",
+          "Virgin Cloud Forest Walk",
+          "Traditional Forest Coffee Ceremony"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Bonga Waterfalls, Hot Springs & Forest Honey",
+        "location": "Bonga Forest",
+        "description": "Hike to the roaring Barta Waterfall through bamboo forests. Meet wild honey harvesters who climb 30-meter trees to place woven bamboo hives, and taste fragrant white honey straight from the comb. Relax at the natural mineral hot springs.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Bonga",
+        "highlights": [
+          "Barta Waterfall",
+          "Tree-Hive Honey Harvest",
+          "Forest Hot Springs"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Wushwush Tea Estate & Return Journey",
+        "location": "Bonga to Jimma / Addis Ababa",
+        "description": "Visit the emerald green carpets of the Wushwush Tea Estate, Ethiopia's largest tea plantation. Transfer to Jimma Airport for a short 45-minute flight to Addis Ababa, or drive back enjoying picturesque western highland vistas.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Addis Ababa",
+        "highlights": [
+          "Wushwush Tea Plantations",
+          "Scenic Return"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bale-mountains",
+    "slug": "bale-mountains",
+    "title": "Bale Mountains & Harenna Forest",
+    "tagline": "Ethiopia’s wild heart – where the endangered Ethiopian wolf still roams free across alpine plateaus.",
+    "overview": "Bale Mountains National Park is one of the world's premier biodiversity hotspots, conserving the largest continuous afro-alpine plateau on the African continent. Ascend to the windswept Sanetti Plateau at over 4,000 meters to spot the world's rarest canid—the endangered Ethiopian wolf—hunting giant mole-rats. Then drop dramatically off the southern escarpment into the mysterious moss-draped cloud canopy of the ancient Harenna Forest.",
+    "region": "Southeastern Highlands",
+    "durationDays": 3,
+    "durationNights": 2,
+    "difficulty": "Moderate",
+    "groupSize": "2 - 8 travelers",
+    "bestSeason": "Oct - May",
+    "startLocation": "Addis Ababa",
+    "endLocation": "Addis Ababa / Rift Valley",
+    "heroImage": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8214-6b345f.jpg",
+    "galleryImages": [
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8214-bf6db5.jpg",
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8213-bf6db5.jpg"
+    ],
+    "category": "Trekking & Wildlife",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Direct partnership with local Bale community scouts and forest conservation horse-trekking guides.",
+    "highlights": [
+      "Spotting the critically endangered Ethiopian Wolf on the high Sanetti Plateau",
+      "Drive Africa's highest all-weather road past Mount Tullu Dimtu (4,377m)",
+      "Explore the moss-carpeted, primordial Harenna Cloud Forest",
+      "Observe endemic Mountain Nyala, Menelik's bushbuck, and Bale monkeys",
+      "Pristine alpine tarns, giant lobelia forests, and spectacular birdlife"
+    ],
+    "included": [
+      "Expedition 4WD Land Cruiser equipped for mountain terrain",
+      "Licensed national park naturalist guide and armed local wildlife scout",
+      "2 nights accommodation (Bale Mountain Lodge or Tokuma Goba)",
+      "All park entry, vehicle fees, and community scout dues",
+      "Full board meals and pure mountain bottled water"
+    ],
+    "notIncluded": [
+      "Personal warm alpine trekking gear",
+      "Gratuities for scout and driver"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Addis Ababa to Dinsho Headquarters",
+        "location": "Addis Ababa to Dinsho",
+        "description": "Drive southeast through the fertile Arsi agricultural plains towards the Bale Mountains. Arrive at Dinsho, national park headquarters. Take an afternoon woodland hike through juniper and Hagenia forests to spot the majestic Mountain Nyala, Menelik’s bushbuck, and warthogs grazing freely.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Goba or Robe",
+        "highlights": [
+          "Woodland Wildlife Walk",
+          "Mountain Nyala",
+          "Dinsho Juniper Canopy"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sanetti Afro-Alpine Plateau & Ethiopian Wolf Safari",
+        "location": "Sanetti Plateau & Harenna Forest",
+        "description": "Ascend to the breathtaking Sanetti Plateau (4,000m+), a surreal lunar-like landscape studded with towering giant lobelias. Keep binoculars ready: this is the premier habitat of the Ethiopian wolf. Ascend Tullu Dimtu (4,377m), then descend the dramatic Harenna escarpment into lush bamboo and cloud forests in search of the endemic Bale monkey.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Goba or Harenna Forest Lodge",
+        "highlights": [
+          "Ethiopian Wolf Sightings",
+          "Sanetti Giant Lobelias",
+          "Harenna Cloud Forest"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Sof Omar Caves or Rift Valley Lakes Return",
+        "location": "Bale to Addis Ababa",
+        "description": "Enjoy a final morning wildlife drive before returning towards Addis Ababa, or take an optional extension to the colossal limestone caverns of Sof Omar, carved by the Web River.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Addis Ababa / Onward travel",
+        "highlights": [
+          "Alpine Sunrise",
+          "Scenic Rift Valley Return"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "danakil-depression",
+    "slug": "danakil-depression",
+    "title": "Danakil Depression – The Hottest Place on Earth",
+    "tagline": "Where fire, salt, and spirit meet – an otherworldly expedition into volcanic wonders.",
+    "overview": "Dropping to 125 meters below sea level, the Danakil Depression in the Afar triangle is one of the most geologically raw and dramatic landscapes on the planet. Trek at night to the glowing lava lake rim of the active Erta Ale shield volcano, marvel at the neon-yellow acid hot springs of Dallol, and watch Afar camel caravans cutting salt blocks on endless shimmering salt flats.",
+    "region": "Afar Depression",
+    "durationDays": 4,
+    "durationNights": 3,
+    "difficulty": "Challenging",
+    "groupSize": "2 - 12 travelers",
+    "bestSeason": "Oct - Mar (Cooler winter season)",
+    "startLocation": "Semera / Mekele",
+    "endLocation": "Semera / Mekele",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/danakil-2016-385-59441a.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/danakil-2016-383-156f61.jpg",
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/danakil-2016-415-59441a.jpg"
+    ],
+    "category": "Expedition & Geological",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Employment of native Afar guides, camel drivers, and local safety escorts, ensuring tourism directly enriches Afar families.",
+    "highlights": [
+      "Night trek to the crater rim of active Erta Ale volcano and its boiling lava lake",
+      "The psychedelic mineral terraces and sulfur chimneys of Dallol hydrothermal field",
+      "Lake Karum salt mining where Afar miners carve and pack salt onto camel trains",
+      "Swimming in the hyper-saline waters of Lake Afrera",
+      "Sleeping under a blanket of desert stars on traditional woven wooden beds"
+    ],
+    "included": [
+      "Full convoy of modern air-conditioned 4WD Toyota Land Cruisers",
+      "Professional Yared expedition leader, Afar tribal scouts, and police escorts",
+      "All meals cooked fresh by dedicated expedition camp chef",
+      "3 nights accommodation (open-air traditional Afar desert camp & Semera hotel)",
+      "Mattresses, fresh linens, sleeping bags, and camping equipment",
+      "Abundant chilled bottled water, juices, and snacks throughout",
+      "All regional Afar administration road permits and crater fees"
+    ],
+    "notIncluded": [
+      "Domestic flights to/from Semera",
+      "Tips for expedition crew and local Afar scouts"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Semera to Lake Afrera & Salt Springs",
+        "location": "Semera to Lake Afrera",
+        "description": "Meet in Semera, capital of the Afar region, and drive across black lava fields toward Lake Afrera (102m below sea level). Float effortlessly in the hypersaline lake and soothe tired muscles in natural freshwater hot springs as the sunset reflects off the water.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Afrera Camp",
+        "highlights": [
+          "Hypersaline Lake Afrera Float",
+          "Desert Hot Springs",
+          "Afar Cultural Welcome"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Erta Ale Active Volcano Night Trek",
+        "location": "Erta Ale Volcano",
+        "description": "Drive across sandy desert tracks to Dodom camp at the base of Erta Ale. Rest during the midday heat. At sunset, begin the exhilarating 3-4 hour trek up the gentle slope of the volcano to the caldera rim. Stand in awe watching glowing red magma churn inside the active lava lake beneath the night sky.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Erta Ale Caldera Rim Camp (Open-air traditional beds)",
+        "highlights": [
+          "Erta Ale Lava Lake",
+          "Caldera Night Trek",
+          "Sleeping Under Desert Stars"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Erta Ale Sunrise to Dallol & Hamed Ela",
+        "location": "Erta Ale to Hamed Ela",
+        "description": "Watch sunrise over the volcanic crater before descending back to base camp for breakfast. Drive across ancient salt basins to Hamed Ela, a traditional salt caravan outpost. Enjoy sunset drinks over the vast mirror-like salt flats of Lake Karum.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Hamed Ela Afar Camp",
+        "highlights": [
+          "Volcano Sunrise",
+          "Lake Karum Salt Mirror Sunset",
+          "Camel Caravans"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Dallol Hydrothermal Wonders & Salt Mines to Semera",
+        "location": "Dallol to Semera",
+        "description": "Visit Dallol, the lowest land volcano on earth (-125m), marveling at surreal neon-green, sulfur-yellow, and rust-red mineral chimneys and bubbling acid pools. Visit nearby salt canyon pillars and traditional Afar salt cutters before returning to Semera.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Semera / Flight to Addis Ababa",
+        "highlights": [
+          "Dallol Neon Acid Pools",
+          "Salt Canyons",
+          "Traditional Salt Cutters"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "harar",
+    "slug": "harar",
+    "title": "Harar – The Holy Walled City",
+    "tagline": "History, faith, and living traditions within centuries-old labyrinthine defensive walls.",
+    "overview": "Harar Jugol is a UNESCO World Heritage site and the spiritual heart of Islamic Ethiopia, revered as the fourth holiest city of Islam. Enclosed within 16th-century fortress walls lie 368 winding alleyways, 82 mosques, vibrant spice markets, and distinctive traditional Adare townhouse architecture. Experience the legendary nightly ritual where the 'Hyena Men' of Harar call wild spotted hyenas by name and feed them meat by hand.",
+    "region": "Eastern Ethiopia",
+    "durationDays": 3,
+    "durationNights": 2,
+    "difficulty": "Easy",
+    "groupSize": "2 - 10 travelers",
+    "bestSeason": "Year-round (Best: Oct - Apr)",
+    "startLocation": "Dire Dawa / Addis Ababa",
+    "endLocation": "Dire Dawa / Addis Ababa",
+    "heroImage": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8119-b8a4a3.jpg",
+    "galleryImages": [
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8115-caddc0.jpg",
+      "https://dvqlxo2m2q99q.cloudfront.net/000_clients/4208285/page/img-8132-63927b.jpg"
+    ],
+    "category": "Cultural & Community",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Direct partnerships with Harari family cultural guesthouses and local heritage preservation guides.",
+    "highlights": [
+      "Witnessing the ancient nightly wild hyena feeding ritual outside the historic city walls",
+      "Wandering the colorful, narrow pedestrian alleys of UNESCO-listed Harar Jugol",
+      "Touring a traditional Harari Adare cultural home with hand-woven basketry",
+      "Exploring French poet Arthur Rimbaud's historic wooden mansion and museum",
+      "Sampling famous Harar coffee and aromatic spice markets"
+    ],
+    "included": [
+      "Airport transfers between Dire Dawa and Harar",
+      "Private vehicle transport and fuel",
+      "Licensed English-speaking Harari heritage guide",
+      "2 nights lodging in traditional heritage guesthouse or hotel",
+      "All entrance fees to museums, Rimbaud house, and hyena feeding site",
+      "All meals and bottled drinking water"
+    ],
+    "notIncluded": [
+      "Domestic flights to/from Dire Dawa",
+      "Personal souvenirs and gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Dire Dawa to Harar & The Nightly Hyena Ceremony",
+        "location": "Dire Dawa to Harar",
+        "description": "Fly into Dire Dawa and drive up the rocky escarpment to walled Harar. Settle into a traditional Harari cultural guesthouse. At dusk, gather outside the city gate to witness the remarkable 'Hyena Man' summon wild hyenas from the darkness, feeding them strips of meat directly from his hands and mouth.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Harar (Rowda Cultural Guest House or Ras Hotel)",
+        "highlights": [
+          "Walled City Arrival",
+          "Nightly Wild Hyena Feeding"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ancient Jugol Alleys, Mosques & Rimbaud House",
+        "location": "Harar Jugol",
+        "description": "Spend the full day exploring inside the walls of Jugol. Visit the Grand Jami Mosque, the vibrant Shoa Gate market, and the Arthur Rimbaud Museum with its stained-glass windows. Visit an authentic Adare family home decorated with ceremonial niches and woven agergada baskets.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Harar",
+        "highlights": [
+          "Jugol Alleys & Gates",
+          "Arthur Rimbaud Mansion",
+          "Traditional Harari Home Visit"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Koremi Clifftop Village & Dire Dawa Railway Heritage",
+        "location": "Harar to Dire Dawa",
+        "description": "Visit the stone cliff village of Koremi, perched dramatically over khat and coffee valleys. Return to Dire Dawa to explore the historic French-built Franco-Ethiopian railway station and colonial quarter before your return flight to Addis Ababa.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Addis Ababa / Onward departure",
+        "highlights": [
+          "Koremi Clifftop Village",
+          "Dire Dawa Historic Railway Station"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grand-ethiopia-journey",
+    "slug": "grand-ethiopia-journey",
+    "title": "Grand Ethiopia Journey – Bale, Harar, Jimma & Arba Minch",
+    "tagline": "From mountains to markets, coffee forests to desert dreams – discover Ethiopia's soul in one grand journey.",
+    "overview": "The ultimate comprehensive exploration of Ethiopia's diverse geography, wildlife, and cultural tapestries. Connecting the alpine heights of Bale Mountains where the rare Ethiopian wolf thrives, the medieval Islamic walled citadel of Harar, the virgin coffee biospheres of Kaffa and Jimma, and the vibrant rift lakes and indigenous cultures of Arba Minch, this signature 12-day route weaves together the extraordinary contrast and authentic soul of Ethiopia.",
+    "region": "Comprehensive National Circuit",
+    "durationDays": 12,
+    "durationNights": 11,
+    "difficulty": "Moderate",
+    "groupSize": "2 - 10 travelers",
+    "bestSeason": "Oct - May",
+    "startLocation": "Addis Ababa",
+    "endLocation": "Addis Ababa",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/ethiopia-gamohighlands-rubendrenth-0025-fa2221.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/img-8214-bf6db5.jpg",
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/danakil-2016-385-59441a.jpg"
+    ],
+    "category": "Cultural & Community",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Comprehensive sustainable travel supporting community guides and conservation cooperatives across five distinct regions.",
+    "highlights": [
+      "Complete combination of mountains, lakes, historical citadels, and wild coffee forests",
+      "Ethiopian wolf tracking across the 4,000m Sanetti Plateau in Bale Mountains",
+      "Nightly hyena feeding ritual and UNESCO walled city exploration in Harar",
+      "Lake Chamo crocodile boat safari and Dorze beehive bamboo village immersion",
+      "Ancient origin wild coffee walk in the lush Kaffa rainforests of Jimma & Bonga"
+    ],
+    "included": [
+      "Private 4WD Land Cruiser throughout with experienced professional expedition driver",
+      "Dedicated senior Yared tour director plus local regional specialist guides",
+      "11 nights accommodation in premier hand-picked eco-lodges and heritage hotels",
+      "All meals (Breakfast, Lunch, Dinner) and continuous purified bottled water",
+      "All national park fees, boat safaris, community dues, and scout costs",
+      "Internal domestic transport and airport transfers"
+    ],
+    "notIncluded": [
+      "International airfare and travel insurance",
+      "Alcoholic beverages and personal tips"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Addis Ababa Cultural Kickoff",
+        "location": "Addis Ababa",
+        "description": "Meet your expedition director for an orientation. Visit the National Museum and Holy Trinity Cathedral, ending with a welcome traditional dinner.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Addis Ababa",
+        "highlights": [
+          "National Museum & Lucy",
+          "Welcome Feast"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Addis to Eastern Citadel of Harar",
+        "location": "Addis Ababa to Harar",
+        "description": "Travel east through the Awash valley to the sacred walled city of Harar. Witness the thrilling nightly wild hyena feeding ceremony.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Harar Heritage Guesthouse",
+        "highlights": [
+          "Awash Valley",
+          "Nightly Hyena Feeding Ritual"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Harar Jugol Walled City Exploration",
+        "location": "Harar",
+        "description": "Explore the maze-like streets of Harar Jugol, Rimbaud House, traditional Harari mansions, and vibrant spice and coffee souks.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Harar",
+        "highlights": [
+          "Jugol Alleys",
+          "Rimbaud Mansion",
+          "Spice Souks"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Harar to Bale Mountains National Park",
+        "location": "Harar to Bale Mountains",
+        "description": "Scenic overland transition towards the southeastern highlands and Bale Mountains. Afternoon woodland walk at Dinsho among Mountain Nyala.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Goba",
+        "highlights": [
+          "Highland Transitions",
+          "Dinsho Mountain Nyala"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Sanetti Afro-Alpine Plateau & Wolf Tracking",
+        "location": "Sanetti Plateau",
+        "description": "Ascend to 4,000m across the Sanetti Plateau to spot the rare Ethiopian Wolf. Explore the primordial giant lobelias and the mossy Harenna Forest.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Goba",
+        "highlights": [
+          "Ethiopian Wolf Tracking",
+          "Giant Lobelias",
+          "Harenna Forest"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Bale to Lake Hawassa & Rift Valley",
+        "location": "Bale to Hawassa",
+        "description": "Drive down into the Great Rift Valley to Lake Hawassa. Stroll the lakeside promenade and observe playful colobus monkeys in the canopy.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Hawassa Lakeside Resort",
+        "highlights": [
+          "Rift Valley Descent",
+          "Colobus Monkeys",
+          "Lakeside Sunset"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Hawassa Fish Market to Arba Minch",
+        "location": "Hawassa to Arba Minch",
+        "description": "Visit the lively morning fish market on Lake Hawassa. Drive south to Arba Minch with panoramic views across Lake Abaya and Lake Chamo.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Arba Minch (Paradise Lodge)",
+        "highlights": [
+          "Fish Market Bustle",
+          "Twin Lakes Panorama"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Lake Chamo Crocodile Safari & Dorze Village",
+        "location": "Arba Minch & Chencha",
+        "description": "Boat safari among giant crocodiles and hippos on Lake Chamo. Ascend into the Gamo highlands to experience Dorze bamboo architecture and weaving.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Arba Minch",
+        "highlights": [
+          "Crocodile Market Boat Safari",
+          "Dorze Bamboo Houses & Weaving"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Arba Minch to Jimma Coffee Heartland",
+        "location": "Arba Minch to Jimma",
+        "description": "Travel northwest across scenic green valleys to Jimma, historic capital of the western coffee trade. Visit King Abba Jifar’s Palace.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Jimma",
+        "highlights": [
+          "Western Highland Vistas",
+          "Abba Jifar Palace"
+        ]
+      },
+      {
+        "day": 10,
+        "title": "Jimma to Bonga Wild Coffee Forests",
+        "location": "Bonga & Kaffa Biosphere",
+        "description": "Deep dive into the Kaffa UNESCO Biosphere Reserve. Walk among ancient wild coffee trees and taste pure tree-hive forest honey.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Bonga Eco-Lodge",
+        "highlights": [
+          "Wild Coffee Forest Walk",
+          "Tree-Hive Honey",
+          "Forest Waterfalls"
+        ]
+      },
+      {
+        "day": 11,
+        "title": "Wushwush Tea & Coffee Cupping Session",
+        "location": "Bonga to Jimma",
+        "description": "Visit the Wushwush tea plantations and enjoy an authentic single-origin coffee cupping session with local cooperative producers.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Jimma",
+        "highlights": [
+          "Wushwush Tea Estate",
+          "Coffee Cupping Session"
+        ]
+      },
+      {
+        "day": 12,
+        "title": "Return to Addis Ababa & Farewell Celebration",
+        "location": "Jimma to Addis Ababa",
+        "description": "Return to Addis Ababa for souvenir shopping, final farewell coffee ceremony, and an unforgettable celebration dinner.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Departure / Tour concludes",
+        "highlights": [
+          "Farewell Feast & Cultural Music"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "historic-north",
+    "slug": "historic-north",
+    "title": "Historic North – Bahir Dar, Gondar, Lalibela & Axum",
+    "tagline": "Follow the ancient trail of faith, kings, and culture through Ethiopia’s timeless north.",
+    "overview": "Step into the cradle of Ethiopian civilization. Cruise Lake Tana to medieval island monasteries housing centuries-old illuminated manuscripts, stand before the thunderous Blue Nile Falls, explore the stone castles of Emperor Fasilides in Gondar ('the Camelot of Africa'), and marvel at Lalibela's eleven monolithic churches hand-carved out of solid volcanic rock—acclaimed as the eighth wonder of the world.",
+    "region": "Northern Ethiopia",
+    "durationDays": 8,
+    "durationNights": 7,
+    "difficulty": "Easy to Moderate",
+    "groupSize": "2 - 12 travelers",
+    "bestSeason": "Oct - May (Ideal: Sep - Apr)",
+    "startLocation": "Addis Ababa",
+    "endLocation": "Addis Ababa",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/m-northern-ethiopia-pictures-695-1-d3cfff.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/hunde-gemechu-vspuhmegxci-unsplash-1-7d5863.jpg",
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/artur-adilkhanian-i2jqrnbqudo-unsplash-2d7f01.jpg"
+    ],
+    "category": "Cultural & Community",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Empowering licensed local community church historians and preserving sacred UNESCO historical architecture.",
+    "highlights": [
+      "All 11 monolithic rock-hewn churches of Lalibela including iconic Bet Giyorgis (St. George)",
+      "Private boat cruise on Lake Tana to 14th-century Zege Peninsula painted monasteries",
+      "Majestic Royal Enclosure (Fasil Ghebbi) castles in Gondar",
+      "Breathtaking Debre Berhan Selassie Church with ceiling of winged angels",
+      "Excursion to the thunderous Blue Nile Falls (Tis Isat)",
+      "Ancient Axum obelisks and Church of Our Lady Mary of Zion"
+    ],
+    "included": [
+      "All domestic flights (Addis - Bahir Dar - Gondar - Lalibela - Addis)",
+      "Private air-conditioned minibus/coaster transport with professional drivers",
+      "Licensed senior historical tour guide throughout + specialized local clerical scholars",
+      "7 nights accommodation in carefully selected top heritage hotels & lodges",
+      "Full board (Breakfast, Lunch, Dinner) and daily purified mineral water",
+      "Private chartered boat on Lake Tana",
+      "All church entrance permissions, UNESCO heritage fees, and monastery boat dues"
+    ],
+    "notIncluded": [
+      "International flights and visa fees",
+      "Tips for local guides and drivers"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Addis Ababa to Bahir Dar & Lake Tana Monasteries",
+        "location": "Bahir Dar",
+        "description": "Fly to Bahir Dar. Board a private boat on Lake Tana, source of the Blue Nile. Visit the peaceful Zege Peninsula and the famous 14th-century monastery of Ura Kidane Mehret, adorned with vivid biblical frescoes.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Bahir Dar (Kuriftu Resort or Avanti Blue Nile)",
+        "highlights": [
+          "Lake Tana Boat Cruise",
+          "Ura Kidane Mehret Frescoes",
+          "Zege Peninsula Coffee Walk"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Blue Nile Falls (Tis Isat) & Drive to Gondar",
+        "location": "Bahir Dar to Gondar",
+        "description": "Morning drive to the magnificent Blue Nile Falls (Tis Isat, 'Water that Smokes'). Walk across an ancient Portuguese stone bridge. In the afternoon, enjoy a picturesque 3-hour drive to the royal city of Gondar.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Gondar (Gondar Hills Resort or Goha Hotel)",
+        "highlights": [
+          "Blue Nile Falls Walk",
+          "Portuguese Bridge",
+          "Scenic Northern Farmlands"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Castles of Gondar & Debre Berhan Selassie",
+        "location": "Gondar",
+        "description": "Explore the UNESCO-inscribed Royal Enclosure (Fasil Ghebbi), featuring medieval stone castles built by Emperor Fasilides. Visit the peaceful Fasilides’ Bath and the enchanting Debre Berhan Selassie Church with its world-famous ceiling of winged Ethiopian angels.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Gondar",
+        "highlights": [
+          "Royal Enclosure Castles",
+          "Fasilides' Bath",
+          "Debre Berhan Selassie Ceiling of Angels"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Flight to Sacred Lalibela & Northern Church Group",
+        "location": "Lalibela",
+        "description": "Fly over rugged mountain peaks to holy Lalibela. In the afternoon, explore the First Group of rock-hewn churches, including the colossal Bet Medhane Alem and the delicately carved Bet Maryam with its ancient bas-reliefs.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Lalibela (Mezena Lodge or Maribela Hotel)",
+        "highlights": [
+          "Mountain Flight",
+          "Bet Medhane Alem (World's largest monolithic church)",
+          "Bet Maryam Frescoes"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Eastern Church Group & The Icon: Bet Giyorgis (St. George)",
+        "location": "Lalibela",
+        "description": "Tour the Eastern Group of rock churches, linked by subterranean tunnels and deep trenches. In the afternoon, visit the masterwork of Lalibela: the freestanding, cross-shaped monolithic church of Bet Giyorgis (St. George), carved 12 meters down into pink volcanic tuff.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Lalibela",
+        "highlights": [
+          "Subterranean Church Tunnels",
+          "Bet Giyorgis (Cross of St. George)",
+          "Sunset over Lasta Mountains"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Asheton Maryam Mountain Monastery or Yemrehanna Kristos",
+        "location": "Lalibela Environs",
+        "description": "Take a mule ride or scenic 4WD drive up Mount Abuna Yosef to Asheton Maryam monastery (3,150m) with sweeping views, or visit Yemrehanna Kristos, a marble and wood church built inside a natural basalt cave predating Lalibela by 80 years.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Lalibela",
+        "highlights": [
+          "Cave Church of Yemrehanna Kristos",
+          "High Altitude Panoramic Views"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Flight to Axum – Ancient Empire & Ark of the Covenant",
+        "location": "Axum",
+        "description": "Fly to Axum, the earliest capital of the Axumite Empire. Marvel at the giant monolithic granite obelisks, the Queen of Sheba’s Bath, and the Church of Our Lady Mary of Zion, where the sacred biblical Ark of the Covenant is believed to be preserved.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Axum (Sabean Hotel)",
+        "highlights": [
+          "Ancient Axum Obelisks",
+          "Queen of Sheba Palace & Bath",
+          "Church of Our Lady Mary of Zion"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Axum Antiquities & Return to Addis Ababa",
+        "location": "Axum to Addis Ababa",
+        "description": "Visit the King Ezana trilingual stone inscription and ancient royal burial tombs. Transfer to Axum Airport for your return flight to Addis Ababa, ready for your international connection.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Departure",
+        "highlights": [
+          "King Ezana Inscriptions",
+          "Return Flight to Capital"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "simien-mountains",
+    "slug": "simien-mountains",
+    "title": "Simien Mountains National Park – Roof of Africa Trekking",
+    "tagline": "Walk on the roof of Africa – where eagles soar, cliffs fall away, and Gelada baboons watch the sunrise with you.",
+    "overview": "The Simien Mountains National Park is a UNESCO World Heritage site known as 'the Chess Pieces of the Gods' due to its dramatic volcanic pinnacles, deep canyons, and sheer 1,000-meter drop-offs. Hike along spectacular escarpments walking directly alongside peaceful grass-eating Gelada baboon troops, spot rare Walia ibex clambering on sheer basalt cliffs, and marvel at the thunderous Jinbar Waterfall plunging into the abyss.",
+    "region": "Northern Highlands",
+    "durationDays": 4,
+    "durationNights": 3,
+    "difficulty": "Moderate to Strenuous",
+    "groupSize": "2 - 10 travelers",
+    "bestSeason": "Sep - May (Peak: Oct - Feb)",
+    "startLocation": "Gondar",
+    "endLocation": "Gondar",
+    "heroImage": "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/daniele-levis-pelusi-kuzxgj3-tha-unsplash-bbd368.jpg",
+    "galleryImages": [
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/sergej-spomer-b-3pkxzaiui-unsplash-bbd368.jpg",
+      "https://dkemhji6i1k0x.cloudfront.net/000_clients/4208285/page/alessandra-verre-ara7ijsp-oc-unsplash-62871a.jpg"
+    ],
+    "category": "Trekking & Wildlife",
+    "travelifeCertified": true,
+    "communityImpactFocus": "Employment of certified park scouts, local mule handlers, camp cooks, and supporting high-altitude village conservation.",
+    "highlights": [
+      "Close, gentle encounters with wild endemic Gelada baboon troops grazing on cliffs",
+      "Standing at the edge of the 500-meter Jinbar Waterfall abyss",
+      "Panoramic views across jagged peaks reaching over 4,000 meters",
+      "Spotting the rare Walia ibex and soaring bearded vultures (Lammergeier)",
+      "Luxury comfort at Simien Lodge (Africa's highest lodge) or wilderness camping"
+    ],
+    "included": [
+      "Private 4WD Land Cruiser transport from/to Gondar",
+      "Licensed Simien National Park trekking guide and mandatory armed scout",
+      "Mule team and handlers for luggage transport",
+      "3 nights lodging (Simien Lodge or equipped mountain tented camp)",
+      "All meals prepared fresh by mountain camp chef",
+      "All park admission tickets, vehicle fees, and community scout dues",
+      "High-altitude first aid and emergency response equipment"
+    ],
+    "notIncluded": [
+      "Personal trekking boots and cold-weather clothing",
+      "Gratuities for scout and muleteers"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Gondar to Debark & Sankaber Camp",
+        "location": "Gondar to Sankaber (3,250m)",
+        "description": "Drive from Gondar to Debark, national park headquarters. Register with park authorities and meet your mountain guide and scout. Drive into the park and embark on a 2-3 hour scenic acclimation trek along the escarpment rim to Sankaber. Watch hundreds of Gelada baboons socializing peacefully on the grassy clifftops.",
+        "mealsIncluded": [
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Sankaber Camp or Simien Lodge",
+        "highlights": [
+          "Escarpment Rim Hike",
+          "Gelada Baboon Troops",
+          "Breathtaking Canyon Drops"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sankaber to Jinbar Waterfall & Geech Camp",
+        "location": "Sankaber to Geech (3,600m)",
+        "description": "Trek through giant heather forests and across the Jinbar River ridge. Stand in awe at the viewpoint above Jinbar Waterfall, where a mountain stream plummets more than 500 meters into a sheer gorge. Ascend to Geech camp located on a vast windswept plateau.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Geech Mountain Camp",
+        "highlights": [
+          "Jinbar Waterfall Abyss",
+          "Highland Giant Heather Canopies",
+          "Afro-Alpine Plateau Trek"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Imet Gogo Pinnacle Viewpoint & Chennek",
+        "location": "Geech to Imet Gogo & Chennek (3,620m)",
+        "description": "Early morning hike to Imet Gogo (3,926m), widely recognized as the single most spectacular viewpoint in all of Africa, providing a 360-degree panorama of jagged volcanic monoliths. Continue across high ridges towards Chennek camp, keeping eyes peeled for Walia ibex leaping along the precipice.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "overnight": "Chennek Camp or Simien Lodge",
+        "highlights": [
+          "Imet Gogo 360-Degree Panorama",
+          "Walia Ibex Wildlife Watching",
+          "Lammergeier Vultures in Flight"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chennek Sunrise & Return to Gondar",
+        "location": "Chennek to Gondar",
+        "description": "Catch the majestic sunrise over the high peaks. Take a final morning hike around the crags of Bwahit pass before boarding our 4WD vehicles for the scenic return drive to Gondar.",
+        "mealsIncluded": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "overnight": "Gondar / Onward travel",
+        "highlights": [
+          "Mountain Sunrise",
+          "Return to Gondar"
+        ]
+      }
+    ]
+  }
+]

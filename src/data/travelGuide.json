@@ -1,0 +1,88 @@
+{
+  "sections": [
+    {
+      "id": "before-you-travel",
+      "title": "Before You Travel",
+      "subtitle": "Essential preparation for an extraordinary journey",
+      "content": "Ethiopia’s landscapes, climates and conditions vary considerably between high-altitude mountain plateaus and warm Rift Valley depressions. Checking seasonal weather, altitude transitions, and packing the right layered garments ensures you experience Ethiopia in supreme comfort and preparedness.",
+      "tips": [
+        "Check visa requirements and apply online for your official Ethiopian e-Visa at least 1–2 weeks prior to departure.",
+        "Ensure your passport has at least 6 months validity from your date of arrival and at least two blank pages.",
+        "Arrange comprehensive travel and medical insurance that covers high-altitude hiking if you plan to visit the Simien or Bale Mountains."
+      ]
+    },
+    {
+      "id": "weather-packing",
+      "title": "Weather & What to Pack",
+      "subtitle": "Prepare for microclimates across varying elevations",
+      "content": "Climate in Ethiopia depends largely on elevation rather than latitude. Highland destinations such as Addis Ababa (2,350m), Lalibela (2,500m), and Gondar (2,130m) are delightfully warm and sunny by day, but drop to crisp cool temperatures during evenings and early mornings. Danakil and Omo Valley, conversely, remain warm to hot year-round.",
+      "tips": [
+        "Bring breathable daytime layers (cotton and moisture-wicking shirts) plus a warm fleece or down jacket for mountain evenings.",
+        "Sturdy, broken-in walking shoes or trekking boots with ankle support are essential for historical church walks and mountain trails.",
+        "A light waterproof rain jacket or windbreaker is advised year-round, especially between June and September.",
+        "Pack an international plug adapter (Ethiopia uses Type C, E, and F round-pin European style sockets)."
+      ]
+    },
+    {
+      "id": "altitude-health",
+      "title": "Altitude, Hydration & Health",
+      "subtitle": "Acclimatize gracefully and stay energized",
+      "content": "Addis Ababa sits at 2,350 meters above sea level, and destinations like the Simien and Bale mountains ascend past 3,500 to 4,000 meters. Taking time to acclimatize upon arrival, avoiding overexertion on your first day, and maintaining generous hydration will keep you feeling refreshed.",
+      "tips": [
+        "Drink at least 2–3 liters of bottled or purified water daily. High-altitude air is crisp and dehydrating.",
+        "High-altitude UV rays are significantly stronger; pack high SPF sunscreen, lip balm, sunglasses, and a wide-brim hat.",
+        "Consult your local travel health clinic regarding routine travel vaccines and malaria prophylactics for lower altitude areas like Danakil and South Omo.",
+        "Carry personal basic medications, hand sanitizer, rehydration salts, and altitude medication if embarking on high treks."
+      ]
+    },
+    {
+      "id": "cultural-etiquette",
+      "title": "Cultural Respect & Etiquette",
+      "subtitle": "Engage with dignity, curiosity, and warmth",
+      "content": "Ethiopia is a culturally rich nation of over 80 distinct ethnic groups and ancient Christian, Islamic, and indigenous traditions. Modesty and respect are universally appreciated.",
+      "tips": [
+        "Dress modestly when visiting churches, mosques, and rural villages. Cover shoulders and knees; a lightweight cotton scarf (Netela) is respectful and practical for women entering sacred sites.",
+        "Remove shoes before stepping onto sacred church rugs or inside mosques.",
+        "Always greet people with a smile and a gentle handshake. Use your right hand when giving or receiving items.",
+        "Always request permission before photographing local people, particularly children and spiritual ceremonies. Respectful connection always comes before the picture."
+      ]
+    },
+    {
+      "id": "responsible-travel",
+      "title": "Responsible Souvenirs & Environmental Care",
+      "subtitle": "Protect Ethiopia’s heritage and uplift local artisans",
+      "content": "As a Travelife Partner, Yared Tour & Travel champions environmental protection and direct community empowerment. We encourage supporting authentic village artisans while preserving Ethiopia’s archaeological treasures and wildlife.",
+      "tips": [
+        "Purchase handcrafted textiles, pottery, woodwork, and organic coffee directly from community artisan cooperatives.",
+        "Never purchase protected wildlife items (ivory, skins, feathers, horn carvings) or uncertified antiquities.",
+        "Minimize single-use plastics by carrying a reusable filtered water bottle; dispose of non-biodegradable waste responsibly in designated bins."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I obtain a tourist visa for Ethiopia?",
+      "answer": "Most international travelers can conveniently apply for an electronic tourist visa (e-Visa) via the official government portal (evisa.gov.et) before arrival. Tourist visas are usually issued for 30 or 90 days. Our Dutch and Ethiopian offices provide full visa guidance upon booking."
+    },
+    {
+      "question": "Is Ethiopia safe for international travelers?",
+      "answer": "Yes, our tourist routes in the Historic North, Simien Mountains, Bale Mountains, Hawassa, Harar, and Omo Valley are regularly operated with experienced local drivers, certified tour leaders, and regional scouts. Yared Tour & Travel continuously monitors travel conditions from both our Addis Ababa operations desk and Netherlands office to guarantee seamless safety."
+    },
+    {
+      "question": "What is community-based tourism and how does it work with Yared?",
+      "answer": "Community-based tourism means your travel expenditure directly supports the host communities you visit. We partner directly with village associations in the Dorze highlands, Ari communities, and Bale mountain cooperatives. Local guides, mule handlers, community homestays, and culinary hosts receive fair wages, ensuring tourism enriches living heritage."
+    },
+    {
+      "question": "Can your tours be customized for private groups or specific dates?",
+      "answer": "Absolutely. While we provide 14 established signature itineraries, each journey can be customized for solo travelers, couples, families, or private groups. You can tailor duration, pace, and accommodation style through our journey inquiry tool."
+    },
+    {
+      "question": "What languages do your tour guides speak?",
+      "answer": "Our professional tour leaders speak fluent English and Amharic, alongside local regional languages (such as Afaan Oromo, Tigrinya, Harari, and Ari). We can also provide German, Dutch, French, or Italian speaking guides upon advance request."
+    },
+    {
+      "question": "How do payments and bookings work between your two offices?",
+      "answer": "You can communicate and confirm your itinerary with either our European office in Ubbergen, Netherlands, or our Addis Ababa headquarters. Payments can be processed securely through European banking transfers (IBAN/SEPA) or international wire transfers, providing complete financial transparency and peace of mind."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Yared Tour & Travel",
+  "brandTagline": "Responsible Travel. Human to Human.",
+  "foundedYear": 2004,
+  "mission": "To develop responsible, community-based tourism experiences while showcasing Ethiopia's culture, nature, and history through ethical, respectful travel that generates real income for rural communities.",
+  "travelifeStatus": "Travelife Partner since 2019",
+  "valuePillars": [
+    {
+      "title": "20+ Years Heritage",
+      "description": "Operating authentic journeys across Ethiopia since 2004 with deep local roots and respected community ties."
+    },
+    {
+      "title": "Dual Ethiopian & Dutch Presence",
+      "description": "Local operational mastery in Addis Ababa paired with European customer support and booking reliability from Ubbergen, Netherlands."
+    },
+    {
+      "title": "Travelife Sustainability Partner",
+      "description": "Rigorous sustainability compliance guaranteeing fair wages, environmental care, and respect for cultural dignity."
+    },
+    {
+      "title": "Direct Community Income",
+      "description": "Every journey directly benefits local guides, village cooperatives, women-led initiatives, and regional drivers."
+    }
+  ],
+  "offices": {
+    "ethiopia": {
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "officeName": "Headquarters Operations Office",
+      "email": "ethiopia@yaredtour.com",
+      "phones": [
+        "+251 944 34 97 22",
+        "+251 911 72 40 72"
+      ],
+      "addressLines": [
+        "Rebecca Building, 2nd Floor, Office 206",
+        "Subcity Yeka, Woreda 07",
+        "Addis Ababa, Ethiopia"
+      ],
+      "workingHours": "Mon - Fri: 8:30 AM - 5:30 PM (EAT) / Sat: 9:00 AM - 1:00 PM",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15762.110169796697!2d38.784495!3d9.015546!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b850069fab6d5%3A0x7ee8aa8ddadbec2b!2sRebecca%20Building%20%7C%2022!5e0!3m2!1sen!2set!4v1761082307601!5m2!1sen!2set",
+      "isPrimary": true
+    },
+    "netherlands": {
+      "city": "Ubbergen",
+      "country": "Netherlands",
+      "officeName": "European Client & Support Office",
+      "email": "contact@yaredtour.com",
+      "phones": [
+        "+31 24 844 2084"
+      ],
+      "addressLines": [
+        "Rijksstraatweg 11",
+        "6574 AA Ubbergen",
+        "The Netherlands"
+      ],
+      "workingHours": "Mon - Fri: 9:00 AM - 5:00 PM (CET)",
+      "isPrimary": false
+    }
+  },
+  "socialLinks": {
+    "instagram": "https://www.instagram.com/yared.tourtravel",
+    "facebook": "https://www.facebook.com/YaredTourTravel",
+    "linkedin": "https://www.linkedin.com/company/yared-tour-travel",
+    "whatsapp": "https://wa.me/251944349722"
+  }
+}
